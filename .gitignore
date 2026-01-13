@@ -8,8 +8,8 @@ __pycache__/
 
 # Platillas 
 *.pdf
-*.xslx
-*.xslm
+*.xlsx
+*.xlsm
 
 
 # Distribution / packaging
